@@ -1,0 +1,137 @@
+.image {
+    margin: 30px;
+    float: left;
+    cursor: pointer;
+    max-height: 100px;
+}
+
+.image-info-bg {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.6);
+    height: 100%;
+    width: 75%;
+    top: 0;
+    left: 0;
+    display: none;
+    z-index: 4;
+}
+
+.image-info {
+    position: absolute;
+    top: 5%;
+    left: 0;
+    height: 90%;
+    width: 100%;
+    text-align: center;
+}
+
+.photo-settings {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+}
+
+.img {
+    max-height: 90%;
+    max-width: 90%;
+}
+
+.comments {
+    position: absolute;
+    top: 0;
+    left: 75%;
+    min-height: 100%;
+    height: inherit;
+    width: 25%;
+    background-color: white;
+    margin-bottom: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 3;
+}
+
+.comment {
+    position: relative;
+    left: 0;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    border: 0.5px solid rgba(128, 128, 128, 0.42);
+}
+
+.add-comment-form {
+    position: fixed;
+    bottom: 0;
+    left: 75%;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    background-color: white;
+    border-top: 0.5px solid rgba(128, 128, 128, 0.42);
+}
+
+.add-comment-text {
+    resize: none;
+    width: 200px;
+    height: 60px;
+}
+
+.user-photo {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.user-name {
+    position: relative;
+    width: auto;
+    height: 20px;
+    top: -60px;
+    left: 70px;
+}
+
+.comment-date {
+    position: relative;
+    width: auto;
+    height: 20px;
+    top: -55px;
+    left: 70px;
+}
+
+.comment-text {
+    position: relative;
+    width: 80%;
+    height: auto;
+    top: -35px;
+    left: 10%;
+    word-wrap: break-word;
+}
+
+.photos {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    width: 60%;
+    min-height: 80%;
+}
+
+.photo-frame {
+    position: relative;
+    display: inline-block;
+    width: 21%;
+    margin: 1%;
+    height: 100px;
+    text-align: center;
+}
+
+.photo {
+    max-width: 85%;
+    max-height: 85%;
+}

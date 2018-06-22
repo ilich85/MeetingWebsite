@@ -1,0 +1,53 @@
+.hidden-add-photo,
+.hidden-update-password {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(96, 107, 108, 0.57);
+    z-index: 2;
+    text-align: center;
+}
+
+.user-info-form {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    width: 60%;
+    height: 80%;
+    background-color: white;
+    text-align: center;
+}
+
+.add-photo-form,
+.update-password-form {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    width: 20%;
+    height: 20%;
+    background-color: white;
+    text-align: center;
+}
+
+.confirmation {
+    position: absolute;
+    top: 70%;
+    left: 30%;
+}
+
+.cancel {
+    position: absolute;
+    top: 70%;
+    left: 60%;
+}
+
+.about-me {
+    resize: none;
+}
+
+.user-param {
+    width: 4em;
+}

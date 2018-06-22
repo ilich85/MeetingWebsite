@@ -1,0 +1,18 @@
+body {
+    background-image: url("../images/hearts.jpg");
+}
+
+h2 {
+    text-align: center;
+}
+
+.user-info-form {
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    background-color: white;
+    border: 0.5px solid #ff55e5;
+}

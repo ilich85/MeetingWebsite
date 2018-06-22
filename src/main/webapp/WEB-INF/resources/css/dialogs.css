@@ -1,0 +1,52 @@
+.dialogs {
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    width: 40%;
+    height: auto;
+}
+
+.dialog-info {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    border: 1px solid rgba(128, 128, 128, 0.63);
+    font-size: 20px;
+}
+
+.user-photo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
+
+.interlocutor {
+    position: absolute;
+    top: 10px;
+    left: 80px;
+}
+
+.dialog {
+    position: absolute;
+    top: 35px;
+    left: 15%;
+    width: 80%;
+    height: 35px;
+    cursor: pointer;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+h2 {
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    width: 60%;
+    height: auto;
+    text-align: center;
+    color: #ff1b3b;
+}

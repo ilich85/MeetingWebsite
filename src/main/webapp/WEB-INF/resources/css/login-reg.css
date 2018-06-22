@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/hearts.png");
+}
+
+.form {
+    position: absolute;
+    left: 40%;
+    top: 35%;
+    width: 20%;
+    height: 35%;
+    background-color: #e13a97;
+    border: 1px solid #ff1b3b;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2 {
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    color: #6565ff;
+}
+
+.check {
+    position: absolute;
+    top: 5px;
+}

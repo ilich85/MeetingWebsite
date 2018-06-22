@@ -1,0 +1,1203 @@
+2018-06-22 17:40:03 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2ed94a8b: startup date [Fri Jun 22 17:40:03 EEST 2018]; root of context hierarchy
+2018-06-22 17:40:03 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:40:04 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:40:04 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:40:04 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:40:05 INFO  [main]: HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-22 17:40:05 INFO  [main]: HHH000206: hibernate.properties not found
+2018-06-22 17:40:05 INFO  [main]: HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-22 17:40:06 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:40:07 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:40:07 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:40:08 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ab4ba9f: startup date [Fri Jun 22 17:40:08 EEST 2018]; root of context hierarchy
+2018-06-22 17:40:08 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:40:09 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:40:09 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:40:09 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:40:09 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:40:09 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:40:09 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:40:57 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@402f32ff: startup date [Fri Jun 22 17:40:57 EEST 2018]; root of context hierarchy
+2018-06-22 17:40:58 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:40:58 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:40:58 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:40:58 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:40:59 INFO  [main]: HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-22 17:40:59 INFO  [main]: HHH000206: hibernate.properties not found
+2018-06-22 17:40:59 INFO  [main]: HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-22 17:40:59 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:00 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:01 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:02 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@263bbfeb: startup date [Fri Jun 22 17:41:02 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:02 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:02 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:02 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:02 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:02 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:02 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:02 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:03 INFO  [main]: user chAdd registered
+2018-06-22 17:41:03 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58ff8d79: startup date [Fri Jun 22 17:41:03 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:03 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:03 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:03 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:03 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:03 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:03 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:03 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:03 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@265bd546: startup date [Fri Jun 22 17:41:03 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:03 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:03 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:03 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:03 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:03 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:04 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:04 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:04 INFO  [main]: user chUpd registered
+2018-06-22 17:41:04 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@8cc8cdb: startup date [Fri Jun 22 17:41:04 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:04 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:04 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:04 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:04 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:04 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:04 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:04 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:05 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5f36c8e3: startup date [Fri Jun 22 17:41:05 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:05 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:05 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:05 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:05 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:05 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:05 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:05 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:05 INFO  [main]: user chGet registered
+2018-06-22 17:41:05 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@e829999: startup date [Fri Jun 22 17:41:05 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:05 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:05 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:05 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:05 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:05 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:05 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:06 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:06 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@322e49ee: startup date [Fri Jun 22 17:41:06 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:06 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:06 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:06 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:06 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:06 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:06 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:06 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:06 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3b97907c: startup date [Fri Jun 22 17:41:06 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:06 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:06 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:06 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:06 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:06 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:06 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:06 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:07 INFO  [main]: user commentAdd registered
+2018-06-22 17:41:07 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3a11c0eb: startup date [Fri Jun 22 17:41:07 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:07 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:07 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:07 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:07 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:07 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:07 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:07 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:07 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@79195c22: startup date [Fri Jun 22 17:41:07 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:07 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:07 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:07 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:07 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:07 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:07 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:07 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:08 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@113dcaf8: startup date [Fri Jun 22 17:41:08 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:08 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:08 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:08 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:08 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:08 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:08 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:08 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:08 INFO  [main]: user commentUpdate registered
+2018-06-22 17:41:08 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6546371: startup date [Fri Jun 22 17:41:08 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:08 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:08 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:08 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:08 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:08 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:08 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:08 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:09 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1d3d76b4: startup date [Fri Jun 22 17:41:09 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:09 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:09 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:09 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:09 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:09 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:09 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:09 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:09 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@44a93f8a: startup date [Fri Jun 22 17:41:09 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:09 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:09 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:09 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:09 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:09 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:09 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:09 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:09 INFO  [main]: user commentsList registered
+2018-06-22 17:41:10 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@d1f23a0: startup date [Fri Jun 22 17:41:10 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:10 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:10 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:10 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:10 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:10 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:10 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:10 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:10 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2152fde5: startup date [Fri Jun 22 17:41:10 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:10 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:10 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:10 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:10 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:10 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:10 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:10 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:11 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@61d011e: startup date [Fri Jun 22 17:41:11 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:11 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:11 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:11 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:11 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:11 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:11 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:11 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:11 INFO  [main]: user commentRemove registered
+2018-06-22 17:41:11 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1e3566e: startup date [Fri Jun 22 17:41:11 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:11 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:11 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:11 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:11 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:11 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:11 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:11 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:11 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@756200d1: startup date [Fri Jun 22 17:41:11 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:11 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:12 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:12 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:12 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:12 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:12 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:12 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:12 INFO  [main]: user user27 registered
+2018-06-22 17:41:12 INFO  [main]: user user28 registered
+2018-06-22 17:41:12 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@41ddec69: startup date [Fri Jun 22 17:41:12 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:12 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:12 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:12 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:12 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:12 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:12 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:12 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:12 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6c225adb: startup date [Fri Jun 22 17:41:12 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:12 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:12 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:12 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:12 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:12 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:13 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:13 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:13 INFO  [main]: user user25 registered
+2018-06-22 17:41:13 INFO  [main]: user user26 registered
+2018-06-22 17:41:13 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@723b8eff: startup date [Fri Jun 22 17:41:13 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:13 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:13 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:13 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:13 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:13 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:13 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:13 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:13 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7e43b342: startup date [Fri Jun 22 17:41:13 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:13 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:13 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:13 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:13 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:13 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:14 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:14 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:14 INFO  [main]: user user23 registered
+2018-06-22 17:41:14 INFO  [main]: user user24 registered
+2018-06-22 17:41:14 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@563392e5: startup date [Fri Jun 22 17:41:14 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:14 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:14 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:14 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:14 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:14 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:14 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:14 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:14 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3e24bab6: startup date [Fri Jun 22 17:41:14 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:14 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:14 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:14 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:14 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:14 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:14 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:14 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:15 INFO  [main]: user user21 registered
+2018-06-22 17:41:15 INFO  [main]: user user22 registered
+2018-06-22 17:41:15 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4c05f83b: startup date [Fri Jun 22 17:41:15 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:15 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:15 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:15 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:15 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:15 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:15 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:15 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:15 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@763ddfc3: startup date [Fri Jun 22 17:41:15 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:15 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:15 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:15 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:15 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:15 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:15 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:15 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:16 INFO  [main]: user user29 registered
+2018-06-22 17:41:16 INFO  [main]: user user30 registered
+2018-06-22 17:41:16 INFO  [main]: user user31 registered
+2018-06-22 17:41:16 INFO  [main]: user user32 registered
+2018-06-22 17:41:16 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1735e1c4: startup date [Fri Jun 22 17:41:16 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:16 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:16 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:16 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:16 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:16 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:16 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:16 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:16 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@77185a2: startup date [Fri Jun 22 17:41:16 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:16 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:16 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:16 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:16 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:16 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:16 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:16 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:17 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7151dd9d: startup date [Fri Jun 22 17:41:17 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:17 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:17 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:17 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:17 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:17 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:17 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:17 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:17 INFO  [main]: user user41 registered
+2018-06-22 17:41:17 INFO  [main]: user user42 registered
+2018-06-22 17:41:17 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@d03cdc7: startup date [Fri Jun 22 17:41:17 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:17 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:17 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:17 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:17 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:17 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:17 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:17 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:17 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@f4b2d13: startup date [Fri Jun 22 17:41:17 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:17 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:17 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:17 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:17 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:17 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:18 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:18 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:18 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3cc5ca01: startup date [Fri Jun 22 17:41:18 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:18 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:18 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:18 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:18 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:18 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:18 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:18 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:18 INFO  [main]: user user43 registered
+2018-06-22 17:41:18 INFO  [main]: user user44 registered
+2018-06-22 17:41:18 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5276330a: startup date [Fri Jun 22 17:41:18 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:18 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:18 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:18 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:18 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:18 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:18 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:18 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:19 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6cb2d5ea: startup date [Fri Jun 22 17:41:19 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:19 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:19 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:19 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:19 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:19 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:19 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:19 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:19 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@16ecdb6d: startup date [Fri Jun 22 17:41:19 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:19 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:19 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:19 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:19 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:19 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:19 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:19 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:19 INFO  [main]: user user45 registered
+2018-06-22 17:41:19 INFO  [main]: user user46 registered
+2018-06-22 17:41:19 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@10c11e36: startup date [Fri Jun 22 17:41:19 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:19 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:19 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:19 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:19 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:19 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:20 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:20 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:20 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@51c660c8: startup date [Fri Jun 22 17:41:20 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:20 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:20 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:20 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:20 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:20 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:20 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:20 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:20 INFO  [main]: user photoAdd registered
+2018-06-22 17:41:20 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@27bfa57f: startup date [Fri Jun 22 17:41:20 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:20 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:20 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:20 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:20 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:20 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:20 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:20 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:20 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5563a63f: startup date [Fri Jun 22 17:41:20 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:20 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:20 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:20 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:20 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:20 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:21 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:21 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:21 INFO  [main]: user photoRemove registered
+2018-06-22 17:41:21 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5876cd86: startup date [Fri Jun 22 17:41:21 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:21 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:21 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:21 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:21 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:21 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:21 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:21 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:21 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@574f89bf: startup date [Fri Jun 22 17:41:21 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:21 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:21 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:21 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:21 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:21 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:21 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:21 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:21 INFO  [main]: user user1 registered
+2018-06-22 17:41:22 INFO  [main]: user user2 registered
+2018-06-22 17:41:22 INFO  [main]: user user3 registered
+2018-06-22 17:41:22 INFO  [main]: user user4 registered
+2018-06-22 17:41:22 INFO  [main]: user user5 registered
+2018-06-22 17:41:22 INFO  [main]: user user6 registered
+2018-06-22 17:41:22 INFO  [main]: user user7 registered
+2018-06-22 17:41:22 INFO  [main]: user user8 registered
+2018-06-22 17:41:22 INFO  [main]: user user9 registered
+2018-06-22 17:41:22 INFO  [main]: user user10 registered
+2018-06-22 17:41:22 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f1ba660: startup date [Fri Jun 22 17:41:22 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:22 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:22 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:22 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:22 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:23 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:23 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:23 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11e8e183: startup date [Fri Jun 22 17:41:23 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:23 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:23 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:23 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:23 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:23 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:23 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:23 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@dc9033f: startup date [Fri Jun 22 17:41:23 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:23 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:23 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:23 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:23 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:23 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:23 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:23 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a65e842: startup date [Fri Jun 22 17:41:23 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:23 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:23 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:23 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:23 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:23 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:23 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:24 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@23c6556b: startup date [Fri Jun 22 17:41:24 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:24 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:24 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:24 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:24 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:24 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:24 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:24 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1228a579: startup date [Fri Jun 22 17:41:24 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:24 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:24 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:24 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:24 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:24 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:24 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:24 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@20c642ef: startup date [Fri Jun 22 17:41:24 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:24 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:24 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:24 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:24 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:24 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:24 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:25 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@646ba7be: startup date [Fri Jun 22 17:41:25 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:25 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:25 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:25 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:25 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:25 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:25 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:25 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@34577542: startup date [Fri Jun 22 17:41:25 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:25 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:25 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:25 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:25 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:25 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:25 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:25 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4721485: startup date [Fri Jun 22 17:41:25 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:25 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:25 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:25 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:25 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:25 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:25 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:25 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11def039: startup date [Fri Jun 22 17:41:25 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:25 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:25 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:25 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:25 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:25 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:25 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:26 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@59de440b: startup date [Fri Jun 22 17:41:26 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:26 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:26 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:26 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:26 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:26 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:26 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:26 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@fcaf12a: startup date [Fri Jun 22 17:41:26 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:26 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:26 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:26 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:26 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:26 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:26 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:26 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@477aa172: startup date [Fri Jun 22 17:41:26 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:26 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:26 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:26 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:26 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:26 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:26 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:26 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@b2a688d: startup date [Fri Jun 22 17:41:26 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:26 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:26 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:26 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:26 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:27 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:27 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:27 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@584d9b19: startup date [Fri Jun 22 17:41:27 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:27 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:27 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:27 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:27 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:27 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:27 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:27 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@43af513c: startup date [Fri Jun 22 17:41:27 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:27 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:27 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:27 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:27 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:27 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:28 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:28 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ce3b8d3: startup date [Fri Jun 22 17:41:28 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:28 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:28 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:28 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:28 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:28 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:28 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:28 INFO  [main]: user photoById registered
+2018-06-22 17:41:29 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@10cd5b30: startup date [Fri Jun 22 17:41:29 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:29 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:29 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:29 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:29 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:29 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:29 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:29 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6fb07db6: startup date [Fri Jun 22 17:41:29 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:29 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:29 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:29 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:29 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:29 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:29 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:29 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7eb0c144: startup date [Fri Jun 22 17:41:29 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:29 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:29 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:29 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:29 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:29 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:29 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:29 INFO  [main]: user nameById registered
+2018-06-22 17:41:30 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1aa5972e: startup date [Fri Jun 22 17:41:30 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:30 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:30 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:30 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:30 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:30 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:30 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:30 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@537762d7: startup date [Fri Jun 22 17:41:30 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:30 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:30 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:30 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:30 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:30 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:30 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:30 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7ed47d66: startup date [Fri Jun 22 17:41:30 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:30 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:30 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:30 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:30 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:30 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:30 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:30 INFO  [main]: user Oleg registered
+2018-06-22 17:41:30 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@167e559c: startup date [Fri Jun 22 17:41:30 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:30 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:30 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:30 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:30 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:31 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:31 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:31 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@24fec3b3: startup date [Fri Jun 22 17:41:31 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:31 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:31 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:31 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:31 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:31 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:31 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:31 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:31 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5101d04c: startup date [Fri Jun 22 17:41:31 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:31 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:31 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:31 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:31 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:31 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:31 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:31 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:31 INFO  [main]: user Igor registered
+2018-06-22 17:41:31 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@52c94e6d: startup date [Fri Jun 22 17:41:31 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:31 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:31 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:31 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:31 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:31 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:31 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:31 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:32 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@496b3cb8: startup date [Fri Jun 22 17:41:32 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:32 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:32 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:32 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:32 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:32 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:32 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:32 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:32 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@53c7f6ab: startup date [Fri Jun 22 17:41:32 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:32 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:32 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:32 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:32 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:32 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:32 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:32 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:32 INFO  [main]: user mainPhoto registered
+2018-06-22 17:41:33 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@55e13772: startup date [Fri Jun 22 17:41:33 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:33 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:33 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:33 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:33 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:33 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:33 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:33 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:33 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4b5aaf53: startup date [Fri Jun 22 17:41:33 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:33 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:33 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:33 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:33 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:33 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:33 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:33 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:33 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@59d3cc71: startup date [Fri Jun 22 17:41:33 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:33 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:33 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:33 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:33 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:33 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:33 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:33 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:34 INFO  [main]: user Ann registered
+2018-06-22 17:41:34 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@612e1ba2: startup date [Fri Jun 22 17:41:34 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:34 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:34 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:34 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:34 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:34 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:34 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:34 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:34 INFO  [main]: user user16 registered
+2018-06-22 17:41:34 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@70054599: startup date [Fri Jun 22 17:41:34 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:34 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:34 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:34 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:34 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:34 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:34 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:34 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:34 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@65dcf80f: startup date [Fri Jun 22 17:41:34 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:34 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:34 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:34 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:34 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:34 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:34 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:34 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:34 INFO  [main]: user user18 registered
+2018-06-22 17:41:34 INFO  [main]: user with id 45 was removed
+2018-06-22 17:41:34 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7169c184: startup date [Fri Jun 22 17:41:34 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:34 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:35 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:35 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:35 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:35 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:35 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:35 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:35 INFO  [main]: user user12 registered
+2018-06-22 17:41:35 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11cd442d: startup date [Fri Jun 22 17:41:35 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:35 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:35 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:35 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:35 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:35 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:35 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:35 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:35 INFO  [main]: user user15 registered
+2018-06-22 17:41:35 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ce940d: startup date [Fri Jun 22 17:41:35 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:35 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:35 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:35 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:35 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:35 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:35 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:35 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:35 INFO  [main]: user user14 registered
+2018-06-22 17:41:35 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6dddd255: startup date [Fri Jun 22 17:41:35 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:35 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:35 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:35 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:35 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:36 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:36 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:36 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:36 INFO  [main]: user user17 registered
+2018-06-22 17:41:36 INFO  [main]: user with id 48 change password
+2018-06-22 17:41:36 INFO  [main]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@30374f99: startup date [Fri Jun 22 17:41:36 EEST 2018]; root of context hierarchy
+2018-06-22 17:41:36 INFO  [main]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:41:36 INFO  [main]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:41:36 INFO  [main]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:36 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:41:36 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:41:36 INFO  [main]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:41:36 INFO  [main]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:41:36 INFO  [main]: user user11 registered
+2018-06-22 17:55:00 INFO  [RMI TCP Connection(3)-127.0.0.1]: Root WebApplicationContext: initialization started
+2018-06-22 17:55:00 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing Root WebApplicationContext: startup date [Fri Jun 22 17:55:00 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:00 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:01 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:01 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:01 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:01 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-22 17:55:01 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000206: hibernate.properties not found
+2018-06-22 17:55:01 INFO  [RMI TCP Connection(3)-127.0.0.1]: HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-22 17:55:02 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:04 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:04 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:05 INFO  [RMI TCP Connection(3)-127.0.0.1]: Root WebApplicationContext: initialization completed in 5420 ms
+2018-06-22 17:55:05 INFO  [RMI TCP Connection(3)-127.0.0.1]: FrameworkServlet 'dispatcher': initialization started
+2018-06-22 17:55:05 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Jun 22 17:55:05 EEST 2018]; parent: Root WebApplicationContext
+2018-06-22 17:55:05 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/update-info],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.CharacteristicController.updateInfoForm(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/update-info],methods=[POST]}" onto public java.lang.String com.ilich.controller.CharacteristicController.updateInfo(com.ilich.model.Characteristic,javax.servlet.http.HttpServletRequest,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/comments/{id}],methods=[GET]}" onto public java.lang.String com.ilich.controller.CommentController.commentsByPhotoId(java.lang.Long,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/add-comment/{id}],methods=[POST]}" onto public java.lang.String com.ilich.controller.CommentController.addComment(javax.servlet.http.HttpServletRequest,java.lang.Long)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/ || /index || /add-message || /register || /remove-user || /send-message || /change-password || /add-user-photo || /add-comment/{id} || /set-main-photo/{id} || /remove-photo/{id}],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.MainController.loginPage(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/dialogs],methods=[GET]}" onto public java.lang.String com.ilich.controller.MessageController.messages(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user_{id}/dialogs],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.MessageController.dialogsForUser(javax.servlet.http.HttpServletRequest,int)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user_{userId}/dialog_{id}],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.MessageController.messagesInDialog(javax.servlet.http.HttpServletRequest,int,long)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/send-message],methods=[POST]}" onto public java.lang.String com.ilich.controller.MessageController.sendMessage(com.ilich.model.Message,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/add-message],methods=[POST]}" onto public java.lang.String com.ilich.controller.MessageController.addMessage(com.ilich.model.Message,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/messages-by-dialog/{id}],methods=[GET]}" onto public java.lang.String com.ilich.controller.MessageController.messagesByDialog(javax.servlet.http.HttpServletRequest,long)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-main-photo/{id}],methods=[POST]}" onto public java.lang.String com.ilich.controller.PhotoController.setMainPhoto(javax.servlet.http.HttpServletRequest,java.lang.Long)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user_{id}/photos],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.PhotoController.userPhotos(int,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-user-photo],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.PhotoController.userPhotoForm(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/photo/{id}],methods=[GET]}" onto public byte[] com.ilich.controller.PhotoController.renderPhoto(java.lang.Long) throws java.io.IOException
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/remove-photo/{id}],methods=[POST]}" onto public java.lang.String com.ilich.controller.PhotoController.removePhoto(javax.servlet.http.HttpServletRequest,java.lang.Long)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/add-user-photo],methods=[POST]}" onto public java.lang.String com.ilich.controller.PhotoController.addUserPhoto(org.springframework.web.multipart.MultipartFile,javax.servlet.http.HttpServletRequest,org.springframework.web.servlet.mvc.support.RedirectAttributes) throws java.io.IOException
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-user-photo],methods=[POST]}" onto public java.lang.String com.ilich.controller.PhotoController.setUserPhoto(org.springframework.web.multipart.MultipartFile,javax.servlet.http.HttpServletRequest,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/search],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.SearchController.searchPage(com.ilich.model.SearchRequest,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/exit],methods=[GET]}" onto public java.lang.String com.ilich.controller.UserController.exit(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/remove-user],methods=[POST]}" onto public java.lang.String com.ilich.controller.UserController.removeUser(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/registration],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.UserController.registerPage(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/check-user],methods=[GET]}" onto public java.lang.String com.ilich.controller.UserController.checkUser(java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/register],methods=[POST]}" onto public java.lang.String com.ilich.controller.UserController.registerUser(java.lang.String,java.lang.String,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/change-password],methods=[POST]}" onto public java.lang.String com.ilich.controller.UserController.changePassword(javax.servlet.http.HttpServletRequest,java.lang.String,java.lang.String,java.lang.String,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-user-info],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.UserInfoController.userInfo(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-user-info],methods=[POST]}" onto public java.lang.String com.ilich.controller.UserInfoController.setUserInfo(com.ilich.model.UserInfo,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user_{id}],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.UserInfoController.userInfoById(int,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user-profile],methods=[GET]}" onto public java.lang.String com.ilich.controller.UserInfoController.userProfile(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Jun 22 17:55:05 EEST 2018]; parent: Root WebApplicationContext
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Jun 22 17:55:05 EEST 2018]; parent: Root WebApplicationContext
+2018-06-22 17:55:06 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@48965d67: startup date [Fri Jun 22 17:55:07 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@717019b7: startup date [Fri Jun 22 17:55:07 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:07 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2b86593a: startup date [Fri Jun 22 17:55:08 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:08 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a70d237: startup date [Fri Jun 22 17:55:09 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a5d5ff3: startup date [Fri Jun 22 17:55:09 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:09 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5e323c80: startup date [Fri Jun 22 17:55:10 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:10 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@55a86188: startup date [Fri Jun 22 17:55:11 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@68ab5370: startup date [Fri Jun 22 17:55:11 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:11 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:55:12 INFO  [RMI TCP Connection(3)-127.0.0.1]: FrameworkServlet 'dispatcher': initialization completed in 6694 ms
+2018-06-22 17:55:25 INFO  [http-nio-8080-exec-8]: user qqqqqq registered
+2018-06-22 17:55:28 INFO  [http-nio-8080-exec-5]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4f9d262e: startup date [Fri Jun 22 17:55:28 EEST 2018]; root of context hierarchy
+2018-06-22 17:55:28 INFO  [http-nio-8080-exec-5]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:55:28 INFO  [http-nio-8080-exec-5]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:55:28 INFO  [http-nio-8080-exec-5]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:28 INFO  [http-nio-8080-exec-5]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:55:28 INFO  [http-nio-8080-exec-5]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:55:28 INFO  [http-nio-8080-exec-5]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:55:28 INFO  [http-nio-8080-exec-5]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:28 INFO  [RMI TCP Connection(3)-127.0.0.1]: Root WebApplicationContext: initialization started
+2018-06-22 17:57:28 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing Root WebApplicationContext: startup date [Fri Jun 22 17:57:28 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:29 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:31 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:31 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:31 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:31 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000412: Hibernate Core {5.2.6.Final}
+2018-06-22 17:57:31 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000206: hibernate.properties not found
+2018-06-22 17:57:31 INFO  [RMI TCP Connection(3)-127.0.0.1]: HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-22 17:57:32 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:34 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:36 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:37 INFO  [RMI TCP Connection(3)-127.0.0.1]: Root WebApplicationContext: initialization completed in 9237 ms
+2018-06-22 17:57:37 INFO  [RMI TCP Connection(3)-127.0.0.1]: FrameworkServlet 'dispatcher': initialization started
+2018-06-22 17:57:37 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Jun 22 17:57:37 EEST 2018]; parent: Root WebApplicationContext
+2018-06-22 17:57:37 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+2018-06-22 17:57:38 INFO  [RMI TCP Connection(3)-127.0.0.1]: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/update-info],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.CharacteristicController.updateInfoForm(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/update-info],methods=[POST]}" onto public java.lang.String com.ilich.controller.CharacteristicController.updateInfo(com.ilich.model.Characteristic,javax.servlet.http.HttpServletRequest,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/add-comment/{id}],methods=[POST]}" onto public java.lang.String com.ilich.controller.CommentController.addComment(javax.servlet.http.HttpServletRequest,java.lang.Long)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/comments/{id}],methods=[GET]}" onto public java.lang.String com.ilich.controller.CommentController.commentsByPhotoId(java.lang.Long,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/ || /index || /add-message || /register || /remove-user || /send-message || /change-password || /add-user-photo || /add-comment/{id} || /set-main-photo/{id} || /remove-photo/{id}],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.MainController.loginPage(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/dialogs],methods=[GET]}" onto public java.lang.String com.ilich.controller.MessageController.messages(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user_{id}/dialogs],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.MessageController.dialogsForUser(javax.servlet.http.HttpServletRequest,int)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user_{userId}/dialog_{id}],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.MessageController.messagesInDialog(javax.servlet.http.HttpServletRequest,int,long)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/send-message],methods=[POST]}" onto public java.lang.String com.ilich.controller.MessageController.sendMessage(com.ilich.model.Message,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/add-message],methods=[POST]}" onto public java.lang.String com.ilich.controller.MessageController.addMessage(com.ilich.model.Message,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/messages-by-dialog/{id}],methods=[GET]}" onto public java.lang.String com.ilich.controller.MessageController.messagesByDialog(javax.servlet.http.HttpServletRequest,long)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user_{id}/photos],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.PhotoController.userPhotos(int,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-user-photo],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.PhotoController.userPhotoForm(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/photo/{id}],methods=[GET]}" onto public byte[] com.ilich.controller.PhotoController.renderPhoto(java.lang.Long) throws java.io.IOException
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/remove-photo/{id}],methods=[POST]}" onto public java.lang.String com.ilich.controller.PhotoController.removePhoto(javax.servlet.http.HttpServletRequest,java.lang.Long)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/add-user-photo],methods=[POST]}" onto public java.lang.String com.ilich.controller.PhotoController.addUserPhoto(org.springframework.web.multipart.MultipartFile,javax.servlet.http.HttpServletRequest,org.springframework.web.servlet.mvc.support.RedirectAttributes) throws java.io.IOException
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-user-photo],methods=[POST]}" onto public java.lang.String com.ilich.controller.PhotoController.setUserPhoto(org.springframework.web.multipart.MultipartFile,javax.servlet.http.HttpServletRequest,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-main-photo/{id}],methods=[POST]}" onto public java.lang.String com.ilich.controller.PhotoController.setMainPhoto(javax.servlet.http.HttpServletRequest,java.lang.Long)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/search],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.SearchController.searchPage(com.ilich.model.SearchRequest,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/exit],methods=[GET]}" onto public java.lang.String com.ilich.controller.UserController.exit(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/remove-user],methods=[POST]}" onto public java.lang.String com.ilich.controller.UserController.removeUser(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/registration],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.UserController.registerPage(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/check-user],methods=[GET]}" onto public java.lang.String com.ilich.controller.UserController.checkUser(java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/register],methods=[POST]}" onto public java.lang.String com.ilich.controller.UserController.registerUser(java.lang.String,java.lang.String,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/change-password],methods=[POST]}" onto public java.lang.String com.ilich.controller.UserController.changePassword(javax.servlet.http.HttpServletRequest,java.lang.String,java.lang.String,java.lang.String,org.springframework.web.servlet.mvc.support.RedirectAttributes)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-user-info],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.UserInfoController.userInfo(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/set-user-info],methods=[POST]}" onto public java.lang.String com.ilich.controller.UserInfoController.setUserInfo(com.ilich.model.UserInfo,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user_{id}],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.ilich.controller.UserInfoController.userInfoById(int,javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped "{[/user-profile],methods=[GET]}" onto public java.lang.String com.ilich.controller.UserInfoController.userProfile(javax.servlet.http.HttpServletRequest)
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Jun 22 17:57:37 EEST 2018]; parent: Root WebApplicationContext
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Jun 22 17:57:37 EEST 2018]; parent: Root WebApplicationContext
+2018-06-22 17:57:39 INFO  [RMI TCP Connection(3)-127.0.0.1]: Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2018-06-22 17:57:40 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@479b3884: startup date [Fri Jun 22 17:57:40 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:40 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:40 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:40 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:40 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:40 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:40 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@70e398ea: startup date [Fri Jun 22 17:57:41 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:41 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@65f4e81e: startup date [Fri Jun 22 17:57:42 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@9b8ec: startup date [Fri Jun 22 17:57:42 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:42 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@749b076e: startup date [Fri Jun 22 17:57:43 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:43 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3894e5d4: startup date [Fri Jun 22 17:57:44 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:44 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a720: startup date [Fri Jun 22 17:57:45 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32ed3671: startup date [Fri Jun 22 17:57:45 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:45 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:46 INFO  [RMI TCP Connection(3)-127.0.0.1]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:46 INFO  [RMI TCP Connection(3)-127.0.0.1]: HHH000397: Using ASTQueryTranslatorFactory
+2018-06-22 17:57:46 INFO  [RMI TCP Connection(3)-127.0.0.1]: FrameworkServlet 'dispatcher': initialization completed in 8735 ms
+2018-06-22 17:57:54 INFO  [http-nio-8080-exec-7]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@711ebb0e: startup date [Fri Jun 22 17:57:54 EEST 2018]; root of context hierarchy
+2018-06-22 17:57:54 INFO  [http-nio-8080-exec-7]: Loading XML bean definitions from class path resource [app-context.xml]
+2018-06-22 17:57:54 INFO  [http-nio-8080-exec-7]: Loaded JDBC driver: com.mysql.jdbc.Driver
+2018-06-22 17:57:54 INFO  [http-nio-8080-exec-7]: Building JPA container EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:54 INFO  [http-nio-8080-exec-7]: HHH000204: Processing PersistenceUnitInfo [
+	name: jpaData
+	...]
+2018-06-22 17:57:54 INFO  [http-nio-8080-exec-7]: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-06-22 17:57:54 INFO  [http-nio-8080-exec-7]: Initialized JPA EntityManagerFactory for persistence unit 'jpaData'
+2018-06-22 17:57:54 INFO  [http-nio-8080-exec-7]: HHH000397: Using ASTQueryTranslatorFactory
